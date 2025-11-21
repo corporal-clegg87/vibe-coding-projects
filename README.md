@@ -24,7 +24,7 @@
 
 ## Overview
 
-This course teaches high-level software engineering concepts for developers who use AI-assisted coding tools. The focus is on architecture, system design, and directing AI to build complex projects, rather than memorizing syntax.
+This course teaches high-level software engineering concepts for developers who use AI-assisted coding tools. The focus is on architecture, system design, and directing AI to build complex projects, rather than memorizing syntax. It is reccomended that you use Cursor for this. A trial account may sufffice at the beginning.
 
 ```
     ┌──────────────────────────────────────────────────┐
@@ -117,6 +117,6 @@ Let the AI handle the syntax. You handle the vision.
 
 ```
     💡 TIP: Each mission is designed to teach you through
-         building, not through lectures. Learn by doing!
+         building, not through lectures. Learn by doing (and doing your own research!
 ```
 
